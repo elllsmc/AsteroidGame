@@ -1,0 +1,4 @@
+pygame=2.0.0
+
+
+in terminal : python -m pip install -r reqs.txt
